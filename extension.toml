@@ -1,7 +1,7 @@
-id = "varnish-vcl"
-name = "Varnish VCL"
+id = "varnish"
+name = "Varnish"
 version = "0.0.1"
 schema_version = 1
 authors = ["Herjuus <me@herjus.no>"]
-description = "Language server support for Varnish VCL."
+description = "Language support for Varnish."
 repository = "https://github.com/herjuus/zed-vcl"

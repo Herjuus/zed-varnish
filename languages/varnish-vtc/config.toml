@@ -1,0 +1,4 @@
+name = "Varnish vtc"
+scope = "source.vtc"
+path_suffixes = ["vtc"]
+line_comments = ["# "]

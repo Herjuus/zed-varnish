@@ -1,4 +1,4 @@
-name = "Varnish VCL"
+name = "Varnish vcl"
 scope = "source.vcl"
 path_suffixes = ["vcl"]
 line_comments = ["# "]
