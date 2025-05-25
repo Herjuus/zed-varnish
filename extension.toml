@@ -1,0 +1,7 @@
+id = "varnish-vcl"
+name = "Varnish VCL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Herjuus <me@herjus.no>"]
+description = "Language server support for Varnish VCL."
+repository = "https://github.com/herjuus/zed-vcl"
